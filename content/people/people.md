@@ -20,6 +20,7 @@ content:
   - Postdoctoral Fellows
   - Graduate Students
   - Alumni
+  - Other
 design:
   show_interests: false
   show_role: true
