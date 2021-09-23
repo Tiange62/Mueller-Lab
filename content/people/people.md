@@ -21,6 +21,7 @@ content:
   - Graduate Students
   - Alumni
   - Other
+  - Test
 design:
   show_interests: false
   show_role: true
