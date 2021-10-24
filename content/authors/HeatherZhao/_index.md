@@ -61,7 +61,7 @@ email: "jzhao62@jhu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Master Students
 ---
 
 Heather is interested in exploring maternal and early childhood exposures and the association with chronic disease development. She hopes she can contribute to preventative medicine and policymaking through her work. Heather received her Bachelor of Health Science degree from McMaster University in Canada. In her spare time, she enjoys painting, going on runs, and trying new restaurants. 

@@ -1,36 +1,38 @@
 ---
 # Display name
-title: Moira Differding, MHS
+title: Tae Eun Kwon
 
 # Username (this should match the folder name)
 authors:
-- MoiraDifferding
+- TaeEunKwon
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Data analysis and Graphic Visualization Intern
 
 # Organizations/Affiliations
 organizations:
-- name: Johns Hopkins Bloomberg School of Public Health
-  url: ""
+- name: UNICEF NYHQ
+  url: "https://www.unicef.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Taeeun Kwon holds a Master of Science degree in Environmental Epidemiology from Johns Hopkins Bloomberg School of Public Health and received a BSc. in Environmental Science and Ecological Engineering and double-majored in Climate Change from Korea University.
 
 interests:
-
+- Maternal and Child Health
+- Environmental Epidemiology
+- Nutrition Epidemiology
 
 education:
   courses:
-  - course: MHS in Genetic Epidemiology
-    institution: Johns Hopkins University
-    year: 2018
-  - course: BA in Biology
-    institution: Reed College
-    year: 2016
+  - course: ScM in Environmental Epidemiology
+    institution: Johns Hopkins Bloomberg School of Public Health
+    year: 2021
+  - course: BSc Environmental Science and Ecological Engineering/ Climate Change
+    institution: Korea University
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,13 +41,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mdiffer1@jhu.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/differding_
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=fJYorjsAAAAJ
+  link: 'mailto:kwont.envepi@gmail.com'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,12 +50,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "mdiffer1@jhu.edu"
+email: "kwont.envepi@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Doctoral Students
+- Alumni
 ---
-
-Moira's research focuses on the gut microbiome and cardiometabolic health outcomes in both pediatric and adult populations. She is currently working on several projects examining the relationships between early infant exposures, adult metabolic health, and gut microbiome diversity and composition.

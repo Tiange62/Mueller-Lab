@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Doctoral Students
 ---
 
 Tiange’s research interests lie in perinatal, pediatric, and environmental epidemiology.  She is particularly drawn to the theory of the developmental origins of health and disease.  Her master’s research examined how heavy metals and trace minerals (individually and as a mixture) contributed to the risk of cardiovascular complications during pregnancy.  She has expanded the interest to the microbiome and is investigating the role of microbiome in maternal and child health for her doctoral dissertation.  Tiange served as the Research Program Manager at the Johns Hopkins Lerner Center for Public Health Promotion from August 2019 to July 2021.  

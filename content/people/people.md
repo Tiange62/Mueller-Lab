@@ -18,7 +18,8 @@ content:
   user_groups:
   - Principal Investigator
   - Postdoctoral Fellows
-  - Graduate Students
+  - Doctoral Students
+  - Master Students
   - Alumni
   - Other
   - Test

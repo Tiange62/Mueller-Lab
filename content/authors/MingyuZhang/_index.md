@@ -73,7 +73,7 @@ email: "mzhang69@jhu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Doctoral Students
 ---
 
 Mingyu (he/him) is interested in the environmental pathobiology of cardiometabolic diseases. His work focuses on understanding how prenatal and perinatal environmental exposures (e.g., ambient air pollutants, and metals) may shape disease risks and influence cardiometabolic health across the life span. 
