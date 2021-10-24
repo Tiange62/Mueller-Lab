@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Environmental Epidemiology
+    institution: Johns Hopkins Bloomberg School of Public Health
+    year: 2024 (expected)
   - course: MHS in Cardiovascular Disease Epidemiology
     institution: Johns Hopkins Bloomberg School of Public Health
     year: 2019
