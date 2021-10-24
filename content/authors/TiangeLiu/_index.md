@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tiange Liu
+title: Tiange Liu, MHS, MBBS
 
 # Username (this should match the folder name)
 authors:
@@ -18,24 +18,24 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Tiange is currently pursuing a doctoral degree in Epidemiology, focusing on the role of the microbiome in the developmental origins of health and disease. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Life-course Epidemiology
+- Perinatal and Pediatric Epidemiology
+- Microbiome
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MHS in Cardiovascular Disease Epidemiology
+    institution: Johns Hopkins Bloomberg School of Public Health
+    year: 2019
+  - course: Certificate in Maternal and Child Health
+    institution: Johns Hopkins Bloomberg School of Public Health
+    year: 2019
+  - course: Bachelor of Medicine in Clinical Medicine
+    institution: Zhejiang University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:tliu57@jhu.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/tiangeliu_ 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?hl=en&user=XXZ9f1YAAAAJ 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +67,4 @@ user_groups:
 - Graduate Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tiange’s research interests lie in perinatal, pediatric, and environmental epidemiology.  She is particularly drawn to the theory of the developmental origins of health and disease.  Her master’s research examined how heavy metals and trace minerals (individually and as a mixture) contributed to the risk of cardiovascular complications during pregnancy.  She has expanded the interest to the microbiome and is investigating the role of microbiome in maternal and child health for her doctoral dissertation.  Tiange served as the Research Program Manager at the Johns Hopkins Lerner Center for Public Health Promotion from August 2019 to July 2021.  

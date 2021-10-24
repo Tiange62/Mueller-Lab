@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mingyu Zhang
+title: Mingyu Zhang, MHS
 
 # Username (this should match the folder name)
 authors:
@@ -18,24 +18,25 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mingyu (he/him) is a PhD candidate in the Department of Epidemiology at the Johns Hopkins Bloomberg School of Public Health (JHSPH). He is also a Biostatistician in the Environmental Influences on Child Health Outcomes (ECHO) Data Analysis Center. Mingyu received his bachelor's degrees from Peking University and master's degree from JHSPH.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Environmental Health
+- Cardiovascular Diseases
+- Maternal and Child Health
+- Microbiome
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MHS in Cardiovascular Disease Epidemiology
+    institution: Johns Hopkins University
+    year: 2018
+  - course: BS in Experimental Medical Sciences
+    institution: Peking University
+    year: 2016
+  - course: BEcon in Economics
+    institution: Peking University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +45,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:mzhang69@jhu.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MingyuZhang_
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=jDLqRMMAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Mingyu-Zhang-12 
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/zhangmingyu/
+- icon: paperclip
+  icon_pack: fas
+  link: https://sites.google.com/view/mingyuzhang 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +68,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mzhang69@jhu.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,6 +76,6 @@ user_groups:
 - Graduate Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mingyu (he/him) is interested in the environmental pathobiology of cardiometabolic diseases. His work focuses on understanding how prenatal and perinatal environmental exposures (e.g., ambient air pollutants, and metals) may shape disease risks and influence cardiometabolic health across the life span. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mingyu is participating in multiple NIH-funded studies, including the Boston Birth Cohort, Environmental influences on Child Health Outcomes (ECHO) project, Nurture cohort, Project Viva, etc. His work has been covered by mainstream media outlets including The Washington Post, The New York Times, and Reuters. Mingyu’s research is supported by the American Heart Association Predoctoral Fellowship.

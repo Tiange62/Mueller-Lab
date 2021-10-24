@@ -11,15 +11,15 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Johns Hopkins Bloomberg School of Public Health
-  url: ""
+  url: "https://publichealth.jhu.edu/faculty/3210/noel-t-mueller"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research is primarily dedicated to the prevention of obesity, type 2 diabetes, hypertensive disorders and cardiovascular diseases throughout the life course.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Epidemiology
+- Microbiome
+- Nutrition
 
 education:
   courses:
