@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   Mueller Lab
-hero_media: welcome.jpg
+hero_media: 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Mueller Lab** studies maternal and child health epidemiology with a special focus on microbiome.
+At the nexus of nutrition, microbiome, and environmental health, research from the Mueller lab aims to inform the development and testing of interventions to improve health throughout the lifespan.
