@@ -20,23 +20,20 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: noeltmueller@jhu.edu
+phone: 410-614-7628
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 2024 E. Monument Street
+  city: Baltimore
+  region: MD
+  postcode: '21205'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '39.298780'
+  longitude: '-76.588310'
+directions: Suite 2-600, Room 2-636
+
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
