@@ -59,3 +59,5 @@ email: ""
 user_groups:
 - Master Students
 ---
+
+Yipin is interested in maternal and infant dietary exposures and its association with cardiovascular diseases, especially hypertension. Her research focuses on infancy and childhood health outcomes. She aims to improve the prevention and control of cardiovascular disease among early life stages. Yipin received her Bachelor of Science degree in Biological Sciences from North Carolina State University.
