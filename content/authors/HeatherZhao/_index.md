@@ -47,7 +47,7 @@ social:
   link: https://www.linkedin.com/in/heather-zhao-3980a3106/ 
 - icon: paperclip
   icon_pack: fas
-  link: heathartz.weebly.com    
+  link: https://heathartz.weebly.com/    
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
