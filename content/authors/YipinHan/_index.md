@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yipin Han
+title: Yipin Han, BS
 
 # Username (this should match the folder name)
 authors:
@@ -18,13 +18,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Yipin (she/her) is a second-year master student in Cardiovascular Disease Epidemiology. Her thesis focuses on the association between infant fecal short chain fatty acids and childhood blood pressure in the New Hampshire Birth Cohort.
 
 interests:
-
+- Hypertension
+- Diet
+- Short Chain Fatty Acid
 
 education:
-
+  - course: MHS in Cardiovascular Disease Epidemiology
+    institution: Johns Hopkins Bloomberg School of Public Health
+    year: 2022 (expected)
+  - course: Bachelor of Science degree in Biological Sciences
+    institution: North Carolina State University
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,7 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yhan57@jhu.edu'
-
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yipin-han-262a11183
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
