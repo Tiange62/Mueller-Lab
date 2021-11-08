@@ -13,4 +13,4 @@ design:
 ---
 #### <br>
 
-# Microbiome, nutrition and environmental epidemiology to improve health and reduce inequities over the lifespan.
+## Microbiome, nutrition and environmental epidemiology to improve health and reduce inequities over the lifespan.
