@@ -19,4 +19,4 @@ design:
 
 <br>
 
-At the nexus of nutrition, microbiome, and environmental health, our research aims to inform the development and testing of interventions to improve health throughout the lifespan.
+Microbiome, nutrition and environmental epidemiology to improve health and reduce inequities over the lifespan.
