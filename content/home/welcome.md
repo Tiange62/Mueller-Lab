@@ -12,6 +12,6 @@ design:
   css_class: fullscreen
 hero_media: null
 ---
-#### <br>
+## <br>
 
 Microbiome, nutrition and environmental epidemiology to improve health and reduce inequities over the lifespan.
