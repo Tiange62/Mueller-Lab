@@ -14,5 +14,5 @@ hero_media: null
 ---
 <br>
 
-<font size="7"><div align="center"> Microbiome, nutrition and environmental epidemiology to improve health and reduce inequities over the lifespan.</div></font>
+<font size="5"><div align="center"> Microbiome, nutrition and environmental epidemiology to improve health and reduce inequities over the lifespan.</div></font>
 
