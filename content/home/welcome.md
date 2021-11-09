@@ -5,8 +5,7 @@ headless: true
 weight: 10
 title: |
   Mueller Lab
-subtitle: Microbiome, nutrition and environmental epidemiology to improve health
-  and reduce inequities over the lifespan.
+subtitle: ""
 design:
   columns: "1"
   css_style: null
